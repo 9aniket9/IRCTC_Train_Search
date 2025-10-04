@@ -3,7 +3,7 @@ This project automates the train search feature on the IRCTC website using Selen
 
  Features
 1. Handles login page
-2.Enters "From" and "To" stations
+2. Enters "From" and "To" stations
 3. Selects date automatically
 4. Handles auto-suggestions for station names
  
